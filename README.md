@@ -1,4 +1,4 @@
-<!-- ![Taufiqur Rohman](img/github-header-banner.png)
+![Taufiqur Rohman](img/github-header-banner.png)
 
 ---
 
@@ -24,4 +24,4 @@
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
 </p>
 
---- -->
+---
