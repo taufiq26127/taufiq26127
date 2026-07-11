@@ -1,9 +1,5 @@
-<h3 align="center">Hi there 👋, I'm [Taufiqur Rohman]</h1>
-<h5 align="center">A passionate learner exploring the world of Artificial Intelligence & Machine Learning</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&pause=1000&color=2E86C1&center=true&vCenter=true&width=200&lines=Learning+Machine+Learning+%F0%9F%A4%96;Exploring+Deep+Learning+%F0%9F%A7%A0;Building+AI+Projects+%E2%9A%A1;Always+Curious%2C+Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
-</p>
+<h1 align="center">Hi there 👋, I'm Taufiqur Rohman</h1>
+<h3 align="center">A passionate learner exploring the world of Artificial Intelligence & Machine Learning</h3>
 
 ---
 
