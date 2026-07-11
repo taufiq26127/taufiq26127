@@ -20,12 +20,10 @@
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
 </p>
 
----
-
-<picture data-importer="pacman">
+<!-- <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taufiq26127/taufiq26127/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/taufiq26127/taufiq26127/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/taufiq26127/taufiq26127/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+</picture> -->
 
 ###
