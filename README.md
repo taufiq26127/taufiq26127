@@ -1,5 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Taufiqur Rohman</h1>
-<h3 align="center">A passionate learner exploring the world of Artificial Intelligence & Machine Learning</h3>
+<!-- ![Taufiqur Rohman](img/github-header-banner.png)
 
 ---
 
@@ -8,7 +7,6 @@
 - 🔭 Currently learning **Machine Learning** & **Deep Learning**
 - 🌱 Exploring topics like Neural Networks, NLP, and RAG
 - 🤝 Open to collaborate on AI/ML projects
-- 📫 How to reach me: **[taufiqur26127@gmail.com]**
 
 ---
 
@@ -26,4 +24,4 @@
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
 </p>
 
----
+--- -->
