@@ -1,7 +1,7 @@
 ### 🚀 About Me
 
-- 🔭 Currently learning **Machine Learning** & **Deep Learning**
-- 🌱 Exploring topics like Neural Networks, NLP, and RAG
+- 🔭 Currently learning **Agentic AI**
+- 🌱 Exploring topics like Neural Networks, NLP, and RAG, Agentic AI
 - 🤝 Open to collaborate on AI/ML projects
 
 ---
